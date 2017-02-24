@@ -43,6 +43,10 @@ footer {
     font-size: .8em;
 }
 
+ul li {
+    font-family: 'Taviraj', 'Serif';
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
