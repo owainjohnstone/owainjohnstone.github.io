@@ -27,6 +27,12 @@ h1 {
     font-variant: small-caps;
 }
 
+h2 {
+    font-family:'Work Sans', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-variant: small-caps;
+    
+}
+
 h3 {
     font-family:'Work Sans', 'Helvetica', 'Arial', 'Sans-Serif';
     font-variant: small-caps;
