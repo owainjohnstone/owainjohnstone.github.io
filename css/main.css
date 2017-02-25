@@ -67,6 +67,10 @@ img {
     border: 1px solid #ddd;
     border-radius: 20px;
     padding: 5px;
-    width: 250px;
+    width: 255px;
     height: 290px;
+}
+
+table {
+    border-spacing: 5px;
 }
