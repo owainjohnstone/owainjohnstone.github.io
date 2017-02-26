@@ -72,6 +72,5 @@ img {
 }
 
 table {
-    border-spacing: 10px;
-    padding-bottom: 1em;
+    border-spacing: 10px 8px;
 }
